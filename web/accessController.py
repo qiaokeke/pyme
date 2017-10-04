@@ -8,8 +8,6 @@ def hello_world():
 @app.route("/getToken")
 def getAccToken():
     from service import wechat
-    token = wechat.getAccessToken();
+    token = wechat.getAccessToken()
     return token
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0')
