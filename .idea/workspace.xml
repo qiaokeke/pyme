@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a870e68-8177-4d46-9a19-185ea66c0994" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/accessController.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/wechat.py" afterPath="$PROJECT_DIR$/service/wechat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/accessController.py" afterPath="$PROJECT_DIR$/web/accessController.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="accessController.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/accessController.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1982" />
-    <option name="y" value="112" />
+    <option name="x" value="569" />
+    <option name="y" value="179" />
     <option name="width" value="1178" />
     <option name="height" value="894" />
   </component>
@@ -185,7 +184,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1982" y="112" width="1178" height="894" extended-state="0" />
+    <frame x="569" y="179" width="1178" height="894" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4130809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -260,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/accessController.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
